@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on my personal website during my free time. Check it out https://antoniosantos.dev
+
+
+🌱 I’m currently learning Web 3.0 concepts and experimenting with it.
+
 <!--
 **antonio-santos/antonio-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
