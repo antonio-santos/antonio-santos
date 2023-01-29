@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my personal website during my free time. Check it out https://antoniosantos.dev
-
-
-🌱 I’m currently learning Web 3.0 concepts and experimenting with it.
+- 🔭 I’m currently working:
+  - remotely as a frontend developer
+  - on my personal website during my free time. Check it out https://antoniosantos.dev
+    -  Using IPFS & fleek for decentralized hosting
+- 🌱 I’m currently learning:
+  - web 3.0, blockchain and crypto concepts
+  - react & react native
+  - redux toolkit & redux raga
+  - ethers & cosmjs
+- 📫 Reach me through https://antoniosantos.dev
 
 <!--
 **antonio-santos/antonio-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
