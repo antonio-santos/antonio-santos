@@ -11,6 +11,11 @@
   - ethers & cosmjs
 - 📫 Reach me through https://antoniosantos.dev
 
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+</p>
+
 <!--
 **antonio-santos/antonio-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
