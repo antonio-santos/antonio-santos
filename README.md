@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working full remote as a contractor on a crypto company
-- 🌱 I’m currently learning web 3.0, blockchain and crypto concepts
+- 🌱 I’m interested and continuously improving my knowledge on web 3.0, blockchain and crypto concepts
 - 📫 How to reach me: https://antoniosantos.dev
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
