@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working full remote as a contractor on a crypto company
-- 🌱 I’m interested and continuously improving my knowledge on web 3.0, blockchain and crypto concepts
-- 📫 How to reach me: https://antoniosantos.dev
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+- I'm a Senior Frontend Engineer with 11 years of experience working with web technologies.
+- I'm currently working as a contractor.
+- I’m interested in web 3.0 and blockchain.
 
 ### Tech Stack
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+</p>
+
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
